@@ -8,8 +8,9 @@
   },
   "author": "Bhavesh Garg",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
-    "twit": "^2.2.11"
-  },
-  "type": "module"
+    "nodemon": "^2.0.20",
+    "twitter-api-v2": "^1.13.0"
+  }
 }
